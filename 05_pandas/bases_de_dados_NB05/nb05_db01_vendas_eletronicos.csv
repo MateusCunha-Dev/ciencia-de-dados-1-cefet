@@ -1,0 +1,8 @@
+produto,categoria,qualidade,preco_reais,bateria_horas,tela_polegadas,tensao,tem_5g,tem_touchscreen,tem_caneta,tem_leitor_iris,tem_nfc
+Notebook A,notebook,boa,3200,8.0,15.6,bivolt,0,0,0,0,0
+Notebook B,Notebook,ótima,4800,10.0,14.0,bivolt,0,0,0,0,0
+Tablet C,tablet,regular,1500,6.5,10.1,bivolt,0,1,1,0,0
+Tablet D,Tablet,boa,2100,,11.0,127/220,0,1,1,0,1
+Smartphone E,celular,ótima,2800,18.0,6.5,bivolt,1,1,0,1,1
+Smartphone F,smartphone,ruim,900,12.0,6.1,127V/220V,1,1,0,0,1
+Notebook G,notebook,,18100,9.0,17.0,bivolt,0,1,0,1,1
