@@ -2,6 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Em_Desenvolvimento-green?style=for-the-badge)
 
@@ -14,11 +15,13 @@ Construir uma base sólida em análise de dados, machine learning e manipulaçã
 
 * **`01_Introducao_NumPy/`**: Fundamentos de computação numérica, criação de arrays, agregações estatísticas (axis), indexação booleana e slicing.
 * **`02_Tipos_Qualidade_Dados/`**: Classificação de atributos (Nominal, Ordinal, Razão), imputação de dados ausentes (NaN), correção de inconsistências e tratamento de outliers.
-* **`03_Pre_Processamento_Dados/`**: Refinaria de dados, incluindo Amostragem Aleatória Simples, Transformação Logarítmica, Padronização (Z-score), Discretização de variáveis contínuas e Binarização (One-Hot Encoding) com montagem de Feature Matrix.
+* **`03_Pre_Processamento_Dados/`**: Refinaria de dados, abordando conceitos teóricos de redução de ruídos e estabilização de variância.
+* **`04_Pratica_Pre_Processamento/`**: Resolução completa do Laboratório 04 utilizando NumPy. Implementação de agregação temporal, amostragem estratificada balanceada, redução de dimensionalidade (SVD), binarização (One-Hot Encoding) e padronização robusta contra outliers usando Desvio Padrão Absoluto (MAD).
+* **`05_pandas/`**: Introdução e domínio da biblioteca Pandas (Notebook 05). Carregamento de DataFrames, tratamento avançado de strings, imputação de nulos com estatística descritiva (Moda/Mediana), Feature Engineering (criação de Score de Tecnologia) e escalonamento de atributos (Min-Max Scaler e Z-Score).
 
 ## 🛠️ Tecnologias e Ferramentas
 * **Linguagem:** Python 3.13.5
-* **Bibliotecas Principais:** NumPy
+* **Bibliotecas Principais:** NumPy, Pandas
 * **Ambiente:** VS Code & Jupyter Notebooks
 
 ## 🚀 Como executar este projeto
